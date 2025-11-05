@@ -20,7 +20,7 @@
 
  ```javascript
 const taha = {
-    location: "Izmir, Turkey",
+    location: "Auckland - New Zealand",
     currentRole: "Software Test Automation Engineer",
     education: "MS in Computer Science (in progress)",
     certifications: ["ISTQB CTFL"],
@@ -123,7 +123,7 @@ PostgreSQL • Supabase • SQL • Database Design
 
 ```javascript
 const taha = {
-    konum: "İzmir, Türkiye",
+    konum: "Auckland - Yeni Zelanda",
     güncelRol: "Yazılım Test Otomasyon Uzmanı",
     eğitim: "Bilgisayar Bilimleri Yüksek Lisans (devam ediyor)",
     sertifikalar: ["ISTQB CTFL"],
@@ -225,7 +225,7 @@ PostgreSQL • Supabase • SQL • Veritabanı Tasarımı
 
 ```javascript
 const taha = {
-    standort: "Izmir, Türkei",
+    standort: "Auckland - Neuseeland",
     aktuelleRolle: "Software-Testautomatisierungs-Ingenieur",
     ausbildung: "Master in Informatik (laufend)",
     zertifizierungen: ["ISTQB CTFL"],
